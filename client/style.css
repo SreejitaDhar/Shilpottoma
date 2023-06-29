@@ -12,10 +12,10 @@ body {
 }
 
 .home-detail h1{
-  font-size: 30px;
+  font-size: 37px;
   font-weight: 700;
   color:hsl(165, 98%, 50%);
-  margin-right: -30px;
+  margin-right: -10px;
   animation: zoom 1s ease forwards, Float 3s ease-in-out infinite;
   animation-delay: 1s, 2s;
   opacity: 0;
